@@ -12,6 +12,9 @@ My Name is Jesús Pérez (JASP).  I'm...
 :computer: Developer FullStack <br>
 :rocket: Nomad Technological <br>
 :camera: Photographer Experimental <br>
+:art: Graphic designer <br>
+:movie_camera: Audiovisual producer <br>
+
 
 </p> 
 
