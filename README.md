@@ -1,7 +1,7 @@
 # Jesús Pérez - @jasp402
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/8978470/83353469-64912d80-a318-11ea-92a2-77ad15796914.png">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/8978470/83353568-1fb9c680-a319-11ea-80b4-21aa944133d1.png">
 </p> 
 
 ### My personal profile since .readme file from GitHub
