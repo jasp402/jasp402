@@ -14,9 +14,17 @@ My Name is Jesús Pérez (JASP).  I'm...
 :camera: Photographer Experimental <br>
 :art: Graphic designer <br>
 :movie_camera: Audiovisual producer <br>
+</p>
 
+<br>  
 
-</p> 
+---
 
- 
+*With more than 10 years of experience in application development. Dedicated to transforming the needs of organizations, providing optimal solutions to complex problems, always oriented to the latest technologies, considering good practices and focused on the quality of results.*
+
+*Recently I have specialized in process automation, creation of automated systems, information extraction through webScraping and development of high-end systems for the health sector. Some describe me as ...*
+
+>**A techie enthusiast, addicted to JavaScript.**
+
+*I like to explore new technologies, to constantly learn. to be able to help and share my knowledge, passionate, meticulous and somewhat perfecting.*
    
