@@ -46,6 +46,10 @@ My Name is Jesús Pérez (JASP).  I'm...
 [![Generic badge](https://img.shields.io/badge/Markdown-82%25-brightgreen.svg?style=flat&logo=markdown)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/NPM-✓-brightgreen.svg?style=flat&logo=npm)](https://shields.io/)
 <br>
+### Database technologies & Structured Query Language
+[![Generic badge](https://img.shields.io/badge/MongoDB-53%25-brightgreen.svg?style=flat&logo=mongodb)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/MySQL-74%25-brightgreen.svg?style=flat&logo=mysql)](https://shields.io/)
+<br>
 ### Frameworks & Libraries
 [![Generic badge](https://img.shields.io/badge/ReactJS-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=react)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Redux-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=redux)](https://shields.io/)
@@ -59,7 +63,4 @@ My Name is Jesús Pérez (JASP).  I'm...
 [![Generic badge](https://img.shields.io/badge/MaterialUI-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=material-ui)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/MochaJS-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=mocha)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Nodemon-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=nodemon)](https://shields.io/)
-<br>
-### Database technology & Structured Query Language
-[![Generic badge](https://img.shields.io/badge/MongoDB-53%25-brightgreen.svg?style=flat&logo=mongodb)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/MySQL-74%25-brightgreen.svg?style=flat&logo=mysql)](https://shields.io/)
+
