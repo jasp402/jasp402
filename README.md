@@ -47,8 +47,9 @@ My Name is Jesús Pérez (JASP).  I'm...
 [![Generic badge](https://img.shields.io/badge/NPM-✓-brightgreen.svg?style=flat&logo=npm)](https://shields.io/)
 <br>
 ### Database technologies & Structured Query Language
-[![Generic badge](https://img.shields.io/badge/MongoDB-53%25-brightgreen.svg?style=flat&logo=mongodb)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/MySQL-74%25-brightgreen.svg?style=flat&logo=mysql)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/MongoDB-53%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=mongodb)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/MySQL-74%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=mysql)](https://shields.io/)
+
 <br>
 ### Frameworks & Libraries
 [![Generic badge](https://img.shields.io/badge/ReactJS-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=react)](https://shields.io/)
