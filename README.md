@@ -33,9 +33,23 @@ My Name is Jesús Pérez (JASP).  I'm...
 
 ---
 
-### Main programming languages and development technologies
+### Main programming languages & development technologies
 [![Generic badge](https://img.shields.io/badge/NodeJS-87%25-brightgreen.svg?style=flat&logo=Node.js)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/JavaScript-94%25-brightgreen.svg?style=flat&logo=javascript)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/php-82%25-brightgreen.svg?style=flat&logo=php)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/php-48%25-brightgreen.svg?style=flat&logo=python)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/TypeScript-57%25-brightgreen.svg?style=flat&logo=typescript)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/HTML5-98%25-brightgreen.svg?style=flat&logo=html5)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Bash-35%25-brightgreen.svg?style=flat&logo=gnu-bash)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/GraphQL-63%25-brightgreen.svg?style=flat&logo=graphql)](https://shields.io/)
+<br>
+### Frameworks & Libraries
+[![Generic badge](https://img.shields.io/badge/ReactJS-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=react)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Redux-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=redux)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Bootstrap-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=bootstrap)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/TailwindCSS-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=tailwind-css)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Apollo-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=apollo-graphql)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/CodeIgniter-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=codeigniter)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Django-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=django)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/GIT-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=git)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Gatsby-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=gatsby)](https://shields.io/)
