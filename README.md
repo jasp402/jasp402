@@ -5,7 +5,7 @@
 <p>
   <img align="left" width="361" height="300" src="https://user-images.githubusercontent.com/8978470/83353568-1fb9c680-a319-11ea-80b4-21aa944133d1.png">
   
-### My personal profile since .readme file from GitHub
+### My personal profile since **README.md** file from GitHub
 ---
 
 My Name is Jesús Pérez (JASP).  I'm...
@@ -36,8 +36,8 @@ My Name is Jesús Pérez (JASP).  I'm...
 ### :computer: Main programming languages & development technologies
 [![Generic badge](https://img.shields.io/badge/NodeJS-87%25-brightgreen.svg?style=flat&logo=Node.js)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/JavaScript-94%25-brightgreen.svg?style=flat&logo=javascript)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/php-82%25-brightgreen.svg?style=flat&logo=php)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/php-48%25-brightgreen.svg?style=flat&logo=python)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/PHP-82%25-brightgreen.svg?style=flat&logo=php)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Python-48%25-brightgreen.svg?style=flat&logo=python)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/TypeScript-57%25-brightgreen.svg?style=flat&logo=typescript)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/HTML5-98%25-brightgreen.svg?style=flat&logo=html5)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Bash-35%25-brightgreen.svg?style=flat&logo=gnu-bash)](https://shields.io/)
