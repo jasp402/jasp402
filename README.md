@@ -21,7 +21,7 @@ My Name is Jesús Pérez (JASP).  I'm...
 <br>  
 
 ---
-
+# About me
 *With more than 10 years of experience in application development. Dedicated to transforming the needs of organizations, providing optimal solutions to complex problems, always oriented to the latest technologies, considering good practices and focused on the quality of results.*
 
 *Recently I have specialized in process automation, creation of automated systems, information extraction through webScraping and development of high-end systems for the health sector. Some describe me as ...*
@@ -32,7 +32,7 @@ My Name is Jesús Pérez (JASP).  I'm...
 <br>
 
 ---
-
+# My knowledge
 ### :computer: Main programming languages & development technologies
 [![Generic badge](https://img.shields.io/badge/NodeJS-87%25-brightgreen.svg?style=flat&logo=Node.js)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/JavaScript-94%25-brightgreen.svg?style=flat&logo=javascript)](https://shields.io/)
