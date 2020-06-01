@@ -33,7 +33,7 @@ My Name is Jesús Pérez (JASP).  I'm...
 
 ---
 
-### Main programming languages & development technologies
+### :computer: Main programming languages & development technologies
 [![Generic badge](https://img.shields.io/badge/NodeJS-87%25-brightgreen.svg?style=flat&logo=Node.js)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/JavaScript-94%25-brightgreen.svg?style=flat&logo=javascript)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/php-82%25-brightgreen.svg?style=flat&logo=php)](https://shields.io/)
@@ -46,13 +46,13 @@ My Name is Jesús Pérez (JASP).  I'm...
 [![Generic badge](https://img.shields.io/badge/Markdown-82%25-brightgreen.svg?style=flat&logo=markdown)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/NPM-✓-brightgreen.svg?style=flat&logo=npm)](https://shields.io/)
 <br>
-### Database technologies & Structured Query Language
+### :floppy_disk: Database technologies & Structured Query Language
 [![Generic badge](https://img.shields.io/badge/MongoDB-53%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=mongodb)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/MySQL-74%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=mysql)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/SQLite-68%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=sqlite)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/MSSQL-40%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=microsoft-sql-server)](https://shields.io/)
 <br>
-### Frameworks & Libraries
+### :wrench: Frameworks & Libraries
 [![Generic badge](https://img.shields.io/badge/ReactJS-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=react)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Redux-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=redux)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Bootstrap-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=bootstrap)](https://shields.io/)
