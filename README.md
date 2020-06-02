@@ -66,11 +66,14 @@ My Name is Jesús Pérez (JASP).  I'm...
 [![Generic badge](https://img.shields.io/badge/MochaJS-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=mocha)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Nodemon-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=nodemon)](https://shields.io/)
 
+---
+
 <br>
 <img align="center" src="https://user-images.githubusercontent.com/8978470/83573714-a32e1000-a4f1-11ea-9fcd-60bb04a30179.png">
 <br>
 
 ---
+
 # Social Network & Public Profiles 
 | 🎖️ | 🥇 | 🥈 | 🥉 |
 | :---:         | :---:         |     :---:      |          :---: |
