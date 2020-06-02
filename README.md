@@ -70,9 +70,10 @@ My Name is Jesús Pérez (JASP).  I'm...
 
 ---
 # Social Network & Public Profiles 
-> _Sorted by popularity on Sat May 02 2020_
-
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
 |<img height="128" width="128" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/github.svg" /><br>[**GitHub**](https://github.com/jasp402/)|  |<img height="128" width="128" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/facebook.svg" /><br>[**Facebook**](https://github.com/jasp402/)
 
+🥇 *Professional social networks*
+🥈 *Vertical social networks*
+🥉 *Leisure social networks*
