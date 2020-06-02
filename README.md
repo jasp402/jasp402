@@ -73,6 +73,9 @@ My Name is Jesús Pérez (JASP).  I'm...
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
 |<img height="128" width="128" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/github.svg" /><br>[**GitHub**](https://github.com/jasp402/)|<img height="128" width="128" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/meetup.svg" /><br>[**Meetup**](https://www.meetup.com/es-ES/members/226119299/)|<img height="128" width="128" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/facebook.svg" /><br>[**Facebook**](https://github.com/jasp402/)
+|<img height="128" width="128" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/bitbucket.svg" /><br>[**Bitbucket**](https://bitbucket.org/jasp402/)|<img height="128" width="128" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/medium.svg" /><br>[**Medium**](https://medium.com/@jasp402)|<img height="128" width="128" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/twitter.svg" /><br>[**Twitter**](https://twitter.com/jasp402)
+
+https://simpleicons.org/icons/medium.svg
 
 🥇 *Professional social networks*
 🥈 *Vertical social networks*
