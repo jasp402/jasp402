@@ -67,7 +67,7 @@ My Name is Jesús Pérez (JASP).  I'm...
 [![Generic badge](https://img.shields.io/badge/Nodemon-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=nodemon)](https://shields.io/)
 
 <br>
-![image](https://user-images.githubusercontent.com/8978470/83572118-978d1a00-a4ee-11ea-8779-c14c70b31ff7.png)
+<img align="center" src="https://user-images.githubusercontent.com/8978470/83572118-978d1a00-a4ee-11ea-8779-c14c70b31ff7.png">
 <br>
 
 ---
