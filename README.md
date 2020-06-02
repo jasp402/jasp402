@@ -65,6 +65,11 @@ My Name is Jesús Pérez (JASP).  I'm...
 [![Generic badge](https://img.shields.io/badge/MaterialUI-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=material-ui)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/MochaJS-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=mocha)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Nodemon-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=nodemon)](https://shields.io/)
+<br>
+### :paperclip: Other tools and libraries
+[![Generic badge](https://img.shields.io/badge/Selenium-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://www.selenium.dev/)
+[![Generic badge](https://img.shields.io/badge/WDIO-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://webdriver.io/)
+[![Generic badge](https://img.shields.io/badge/Sequelize-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://sequelize.org/)
 
 ---
 
