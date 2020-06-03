@@ -70,6 +70,7 @@ My Name is Jesús Pérez (JASP).  I'm...
 [![Generic badge](https://img.shields.io/badge/Selenium-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://www.selenium.dev/)
 [![Generic badge](https://img.shields.io/badge/WDIO-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://webdriver.io/)
 [![Generic badge](https://img.shields.io/badge/Sequelize-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://sequelize.org/)
+[![Generic badge](https://img.shields.io/badge/Fluent%20UI-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://developer.microsoft.com/en-us/fluentui#/)
 
 ---
 
@@ -81,7 +82,7 @@ My Name is Jesús Pérez (JASP).  I'm...
 
 # Social Network & Public Profiles 
 | 🎖️ | 🥇 | 🥈 | 🥉 |
-| :---:         | :---:         |     :---:      |          :---: |
+| :----------:         | :----------:         |     :----------:      |          :----------: |
 |<img height="128" width="128" src="https://image.flaticon.com/icons/svg/1051/1051275.svg"/><br>[**GitHub**](https://github.com/jasp402/)|<img height="128" width="128" src="https://image.flaticon.com/icons/svg/1400/1400848.svg" /><br>[**LinkedIn**](https://www.linkedin.com/in/jasp402/)|<img height="128" width="128" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/meetup.svg" /><br>[**Meetup**](https://www.meetup.com/es-ES/members/226119299/)|<img height="128" width="128" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/facebook.svg" /><br>[**Facebook**](https://github.com/jasp402/)
 |<img height="128" width="128" src="https://seeklogo.com/images/B/bitbucket-logo-D072214725-seeklogo.com.png" /><br>[**Bitbucket**](https://bitbucket.org/jasp402/)|<img height="128" width="128" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/freelancer.svg" /><br>[**Freelancer**](https://www.freelancer.com.pe/u/jasp402)|<img height="128" width="128" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/medium.svg" /><br>[**Medium**](https://medium.com/@jasp402)|<img height="128" width="128" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/twitter.svg" /><br>[**Twitter**](https://twitter.com/jasp402)
 
