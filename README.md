@@ -51,6 +51,7 @@ My Name is Jesús Pérez (JASP).  I'm...
 [![Generic badge](https://img.shields.io/badge/MySQL-74%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=mysql)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/SQLite-68%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=sqlite)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/MSSQL-40%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=microsoft-sql-server)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/IndexedDB-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://developer.mozilla.org/es/docs/Web/API/IndexedDB_API)
 <br>
 ### :wrench: Frameworks & Libraries
 [![Generic badge](https://img.shields.io/badge/ReactJS-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=react)](https://shields.io/)
