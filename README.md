@@ -74,6 +74,8 @@ My Name is Jesús Pérez (JASP).  I'm...
 [![Generic badge](https://img.shields.io/badge/Sequelize-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://sequelize.org/)
 [![Generic badge](https://img.shields.io/badge/Fluent%20UI-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://developer.microsoft.com/en-us/fluentui#/)
 [![Generic badge](https://img.shields.io/badge/Puppeteer-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://pptr.dev/)
+[![Generic badge](https://img.shields.io/badge/AutoIt-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://www.autoitscript.com/site/)
+[![Generic badge](https://img.shields.io/badge/UI%20Path-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://www.uipath.com/es/)
 
 
 ---
