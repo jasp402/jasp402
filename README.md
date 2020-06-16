@@ -34,10 +34,10 @@ My Name is Jesús Pérez (JASP).  I'm...
 ---
 # My knowledge
 ### :computer: Main programming languages & development technologies
-[![Generic badge](https://img.shields.io/badge/NodeJS-87%25-brightgreen.svg?style=flat&logo=Node.js)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/JavaScript-94%25-brightgreen.svg?style=flat&logo=javascript)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/PHP-82%25-brightgreen.svg?style=flat&logo=php)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Python-48%25-brightgreen.svg?style=flat&logo=python)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/NodeJS-87%25-brightgreen.svg?style=flat&logo=Node.js)](https://nodejs.org/)
+[![Generic badge](https://img.shields.io/badge/JavaScript-94%25-brightgreen.svg?style=flat&logo=javascript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![Generic badge](https://img.shields.io/badge/PHP-82%25-brightgreen.svg?style=flat&logo=php)](https://www.php.net/)
+[![Generic badge](https://img.shields.io/badge/Python-48%25-brightgreen.svg?style=flat&logo=python)](https://www.python.org/)
 [![Generic badge](https://img.shields.io/badge/TypeScript-57%25-brightgreen.svg?style=flat&logo=typescript)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/HTML5-98%25-brightgreen.svg?style=flat&logo=html5)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Bash-35%25-brightgreen.svg?style=flat&logo=gnu-bash)](https://shields.io/)
