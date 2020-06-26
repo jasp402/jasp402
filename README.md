@@ -47,7 +47,7 @@ My Name is Jesús Pérez (JASP).  I'm...
 [![Generic badge](https://img.shields.io/badge/NPM-✓-brightgreen.svg?style=flat&logo=npm)](https://www.npmjs.com/~jasp402)
 <br>
 ### :floppy_disk: Database technologies & Structured Query Language
-[![Generic badge](https://img.shields.io/badge/MongoDB-53%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=mongodb)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/MongoDB-53%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=mongodb)](https://docs.mongodb.com/)
 [![Generic badge](https://img.shields.io/badge/MySQL-74%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=mysql)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/SQLite-68%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=sqlite)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/MSSQL-40%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=microsoft-sql-server)](https://shields.io/)
