@@ -112,7 +112,7 @@ My Name is Jesús Pérez (JASP).  I'm...
 
 # Articulos
 
-### Mi experiencia con Bots de Automatización
+### [Mi experiencia con Bots de Automatización](https://medium.com/@jasp402/mi-experiencia-con-bots-de-automatizaci%C3%B3n-e6a4fa24fe9f)
 <img align="left" width="361" height="300" src="https://miro.medium.com/max/500/0*-igvfQIQdKLKAAvu">
 
 La verdad de este tema no sabía mucho, sino hasta mediados de marzo del 2017 cuando comencé a trabajar como desarrollador Full Stack. En una empresa de tecnología donde tuve la oportunidad de participar en el desarrollo de un proyecto bastante interesante.
