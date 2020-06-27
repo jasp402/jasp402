@@ -111,3 +111,9 @@ My Name is Jesús Pérez (JASP).  I'm...
 <br>
 
 # Articulos
+
+### Mi experiencia con Bots de Automatización
+<img align="left" width="361" height="300" src="https://miro.medium.com/max/500/0*-igvfQIQdKLKAAvu">
+
+La verdad de este tema no sabía mucho, sino hasta mediados de marzo del 2017 cuando comencé a trabajar como desarrollador Full Stack. En una empresa de tecnología donde tuve la oportunidad de participar en el desarrollo de un proyecto bastante interesante.
+La empresa para la cual trabajo, estaba interesada en poder eliminar algunas tareas repetitivas, hacer uso de cualquier herramienta tecnológica que fuera necesaria con tal de poder liberar un recurso humano que ocupaba dicha tarea, por ejemplo, algunas de las tareas se encargaban de descargar documentos PDF de páginas web, llenar formularios y realizar algunos registros. Si bien no es para nada complicado, el número de operaciones que debían procesar era considerablemente alto y por ende le consumía todo el día a un equipo de trabajo.
