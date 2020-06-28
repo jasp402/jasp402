@@ -119,7 +119,7 @@ La verdad de este tema no sabía mucho, sino hasta mediados de marzo del 2017 cu
 La empresa para la cual trabajo, estaba interesada en poder eliminar algunas tareas repetitivas, hacer uso de cualquier herramienta tecnológica que fuera necesaria con tal de poder liberar un recurso humano que ocupaba dicha tarea, por ejemplo, algunas de las tareas se encargaban de descargar documentos PDF de páginas web, llenar formularios y realizar algunos registros. Si bien no es para nada complicado, el número de operaciones que debían procesar era considerablemente alto y por ende le consumía todo el día a un equipo de trabajo. 
 [leer más...](https://medium.com/@jasp402/mi-experiencia-con-bots-de-automatizaci%C3%B3n-e6a4fa24fe9f)
 
-<br>
+<br><br>
 
 ### [Mi Experiencia con el Web Scraping](https://medium.com/@jasp402/mi-experiencia-con-el-web-scraping-d8eef6a32ebe)
 <img align="left" width="361" height="300" src="https://miro.medium.com/max/1400/1*Xx8AgXP7RnOpNCD0FQIsqQ.jpeg">
