@@ -123,6 +123,8 @@ La empresa para la cual trabajo, estaba interesada en poder eliminar algunas tar
 
 ### [Mi Experiencia con el Web Scraping](https://medium.com/@jasp402/mi-experiencia-con-el-web-scraping-d8eef6a32ebe)
 <img align="left" width="361" height="300" src="https://miro.medium.com/max/1400/1*Xx8AgXP7RnOpNCD0FQIsqQ.jpeg">
+Durante varios años he trabajado con WebScraping y la mayoría del tiempo sin saber exactamente qué era. simplemente pensé que jalarse la información de una web, no tendría un nombre. La razón por la que decidí hacer este articulo, es para contar un poco sobre mi experiencia en este campo, algunas anécdotas y compartir mi punto de vista sobre este popular tema.
+
 Creo que lo enriquecedor de mi experiencia es que me ha tocado combinar automatización de procesos con web Scraping y es algo que solemos asociar pero no es del todo cierto.
 
 [leer más...](https://medium.com/@jasp402/mi-experiencia-con-el-web-scraping-d8eef6a32ebe)
