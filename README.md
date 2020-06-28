@@ -110,7 +110,7 @@ My Name is Jesús Pérez (JASP).  I'm...
 
 <br>
 
-# Articulos
+# Articles
 
 ### [Mi experiencia con Bots de Automatización](https://medium.com/@jasp402/mi-experiencia-con-bots-de-automatizaci%C3%B3n-e6a4fa24fe9f)
 <img align="left" width="361" height="300" src="https://miro.medium.com/max/500/0*-igvfQIQdKLKAAvu">
