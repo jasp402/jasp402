@@ -130,6 +130,14 @@ Creo que lo enriquecedor de mi experiencia es que me ha tocado combinar automati
 
 [leer más...](https://medium.com/@jasp402/mi-experiencia-con-el-web-scraping-d8eef6a32ebe)
 
-<br>
+<br><br>
 
 # Projects created
+
+- js-packtools
+- Download-Instagram-Picture
+- js-challenges-terminal
+- whatsapp_analytic (Private)
+- scraping-picture-instagram
+- uniprint
+- scraping_inkafarma (Private)
