@@ -129,3 +129,7 @@ Durante varios años he trabajado con WebScraping y la mayoría del tiempo sin s
 Creo que lo enriquecedor de mi experiencia es que me ha tocado combinar automatización de procesos con web Scraping y es algo que solemos asociar pero no es del todo cierto.
 
 [leer más...](https://medium.com/@jasp402/mi-experiencia-con-el-web-scraping-d8eef6a32ebe)
+
+<br>
+
+# Projects created
