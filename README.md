@@ -94,11 +94,11 @@ My Name is Jesús Pérez (JASP).  I'm...
 | ~ |<img height="128" width="128" src="https://www.forecast.app/hubfs/New%20Website%20/integrations-logos/Azure%20DevOps.png" /><br>[**Azure Devops**](https://dev.azure.com/jasp402/)|<img height="128" width="128" src="https://insiderlatam.com/wp-content/uploads/2019/07/Workana.jpg" /><br>[**Workana**](https://www.workana.com/freelancer/1a4fc72a83e82f2f2ef7190405f8c9ab)|<img height="128" width="128" src="https://juststickers.in/wp-content/uploads/2019/07/stackoverflow.png" /><br>[**StackOverflow**](https://stackoverflow.com/users/5420562/jasp402)|<img height="128" width="128" src="https://es.logodownload.org/wp-content/uploads/2018/10/instagram-logo1.png" /><br>[**Instagram**](https://www.instagram.com/jasp402/)
 
 
-
-🎖️ *profesional Application & tool online*
-🥇 *Professional social networks*
-🥈 *Vertical social networks*
-🥉 *Leisure social networks*
+<br>🏆 *App to rate skills*
+<br>🎖️ *profesional Application & tool online*
+<br>🥇 *Professional social networks*
+<br>🥈 *Vertical social networks*
+<br>🥉 *Leisure social networks*
 
 <br>
 
@@ -123,7 +123,7 @@ La empresa para la cual trabajo, estaba interesada en poder eliminar algunas tar
 <br><br>
 
 ### [Mi Experiencia con el Web Scraping](https://medium.com/@jasp402/mi-experiencia-con-el-web-scraping-d8eef6a32ebe)
-<img align="left" width="361" height="300" src="https://miro.medium.com/max/1400/1*Xx8AgXP7RnOpNCD0FQIsqQ.jpeg">
+<img align="left" width="361" height="300" src="https://miro.medium.com/max/1400/1*Xx8AgXP7RnOpNCD0FQIsqQ.jpeg"> 
 Durante varios años he trabajado con WebScraping y la mayoría del tiempo sin saber exactamente qué era. simplemente pensé que jalarse la información de una web, no tendría un nombre. La razón por la que decidí hacer este articulo, es para contar un poco sobre mi experiencia en este campo, algunas anécdotas y compartir mi punto de vista sobre este popular tema.
 
 Creo que lo enriquecedor de mi experiencia es que me ha tocado combinar automatización de procesos con web Scraping y es algo que solemos asociar pero no es del todo cierto.
