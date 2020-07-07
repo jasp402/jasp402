@@ -142,8 +142,8 @@ Creo que lo enriquecedor de mi experiencia es que me ha tocado combinar automati
 <br><br>
 # Projects created
 
-- 🍍 [js-packtools](https://github.com/jasp402/js-packtools)
-- Download-Instagram-Picture
+- 🍍 [js-packtools](https://github.com/jasp402/js-packtools) | _Basic toolbox for developers JS inspirate by WebScraping_
+- 📦 [Download-Instagram-Picture](https://github.com/jasp402/Download-Instagram-Picture)
 - js-challenges-terminal
 - whatsapp_analytic (Private)
 - scraping-picture-instagram
