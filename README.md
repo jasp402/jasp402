@@ -143,9 +143,9 @@ Creo que lo enriquecedor de mi experiencia es que me ha tocado combinar automati
 # Projects created
 
 - 🍍 [js-packtools](https://github.com/jasp402/js-packtools) | _Basic toolbox for developers JS inspirate by WebScraping_
-- 📦 [Download-Instagram-Picture](https://github.com/jasp402/Download-Instagram-Picture)
+- 📦 [Download-Instagram-Picture](https://github.com/jasp402/Download-Instagram-Picture) | _Extension for Google Chrome. For download picture of instagram, Facebook and WhatSapp Web._
 - js-challenges-terminal
-- whatsapp_analytic (Private)
 - scraping-picture-instagram
 - uniprint
+- whatsapp_analytic (Private)
 - scraping_inkafarma (Private)
