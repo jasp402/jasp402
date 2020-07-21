@@ -146,6 +146,6 @@ Creo que lo enriquecedor de mi experiencia es que me ha tocado combinar automati
 - 📦 [Download-Instagram-Picture](https://github.com/jasp402/Download-Instagram-Picture) | _Extension for Google Chrome. For download picture of instagram, Facebook and WhatSapp Web._
 - 🖥️ [js-challenges-terminal](https://github.com/jasp402/js-challenges-terminal) | _Developer challenge website written for the JavaScript language_  
 - 🧹[scraping-picture-instagram](https://github.com/jasp402/scraping-picture-instagram) | _Web Scraping using WebDriverIO. Download the entire image of a profile on instagram._
-- [uniprint](https://github.com/jasp402/uniprint) | _ERP created from scratch, for a company dedicated to the storage and distribution of books and school supplies._
+- 📚[uniprint](https://github.com/jasp402/uniprint) | _ERP created from scratch, for a company dedicated to the storage and distribution of books and school supplies._
 - whatsapp_analytic (Private)
 - scraping_inkafarma (Private)
