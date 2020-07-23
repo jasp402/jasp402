@@ -128,18 +128,21 @@ La empresa para la cual trabajo, estaba interesada en poder eliminar algunas tar
 Durante varios años he trabajado con WebScraping y la mayoría del tiempo sin saber exactamente qué era. simplemente pensé que jalarse la información de una web, no tendría un nombre. La razón por la que decidí hacer este articulo, es para contar un poco sobre mi experiencia en este campo, algunas anécdotas y compartir mi punto de vista sobre este popular tema.
 
 Creo que lo enriquecedor de mi experiencia es que me ha tocado combinar automatización de procesos con web Scraping y es algo que solemos asociar pero no es del todo cierto.
-
 [leer más...](https://medium.com/@jasp402/mi-experiencia-con-el-web-scraping-d8eef6a32ebe)
 
-<br><br>
+<br>
 
-### [JS-PackTools](https://medium.com/@jasp402/js-packtools-v1-0-40eff975546c)
+### [Mi Libreria JS-PackTools](https://medium.com/@jasp402/js-packtools-v1-0-40eff975546c)
 <img align="left" width="361" height="300" src="https://user-images.githubusercontent.com/8978470/88339809-4df7c900-cd00-11ea-9c18-eb6085662ecb.png"> 
 Este es una librería de utilidades. La idea es poder brindarle a cualquier programador una serie de funciones, donde por lo general son funciones básicas poco complejas pero tenerlas de esa forma hace la vida mucho más fácil.
 
 [leer más...](https://medium.com/@jasp402/js-packtools-v1-0-40eff975546c)
 
-<br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
