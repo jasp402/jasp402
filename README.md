@@ -138,9 +138,8 @@ Creo que lo enriquecedor de mi experiencia es que me ha tocado combinar automati
 Este es una librería de utilidades. La idea es poder brindarle a cualquier programador una serie de funciones, donde por lo general son funciones básicas poco complejas pero tenerlas de esa forma hace la vida mucho más fácil.
 
 [leer más...](https://medium.com/@jasp402/js-packtools-v1-0-40eff975546c)
+
 <br><br>
-
-
 
 ---
 
