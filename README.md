@@ -133,6 +133,15 @@ Creo que lo enriquecedor de mi experiencia es que me ha tocado combinar automati
 
 <br><br>
 
+### [JS-PackTools](https://medium.com/@jasp402/js-packtools-v1-0-40eff975546c)
+<img align="left" width="361" height="300" src="https://user-images.githubusercontent.com/8978470/88339809-4df7c900-cd00-11ea-9c18-eb6085662ecb.png"> 
+Este es una librería de utilidades. La idea es poder brindarle a cualquier programador una serie de funciones, donde por lo general son funciones básicas poco complejas pero tenerlas de esa forma hace la vida mucho más fácil.
+
+[leer más...](https://medium.com/@jasp402/js-packtools-v1-0-40eff975546c)
+<br><br>
+
+
+
 ---
 
 ![image](https://user-images.githubusercontent.com/8978470/86067554-bec9ff00-ba3a-11ea-86a1-dafa174d3579.png)
@@ -140,6 +149,7 @@ Creo que lo enriquecedor de mi experiencia es que me ha tocado combinar automati
 ---
 
 <br><br>
+
 # Projects created
 
 - 🍍 [js-packtools](https://github.com/jasp402/js-packtools) | _Basic toolbox for developers JS inspirate by WebScraping_
