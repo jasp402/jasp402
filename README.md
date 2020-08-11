@@ -156,6 +156,8 @@ Este es una librería de utilidades. La idea es poder brindarle a cualquier prog
 
 # Projects created
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jasp402&repo=js-packtools)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🍍 [js-packtools](https://github.com/jasp402/js-packtools) | _Basic toolbox for developers JS inspirate by WebScraping_
 - 📦 [Download-Instagram-Picture](https://github.com/jasp402/Download-Instagram-Picture) | _Extension for Google Chrome. For download picture of instagram, Facebook and WhatSapp Web._
 - 🖥️ [js-challenges-terminal](https://github.com/jasp402/js-challenges-terminal) | _Developer challenge website written for the JavaScript language_  
