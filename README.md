@@ -21,7 +21,7 @@ My Name is Jesús Pérez (JASP).  I'm...
 <br>  
 
 ---
-# About me
+# 🙋‍♂️ About me
 *With more than 10 years of experience in application development. Dedicated to transforming the needs of organizations, providing optimal solutions to complex problems, always oriented to the latest technologies, considering good practices and focused on the quality of results.*
 
 *Recently I have specialized in process automation, creation of automated systems, information extraction through webScraping and development of high-end systems for the health sector. Some describe me as ...*
@@ -32,7 +32,7 @@ My Name is Jesús Pérez (JASP).  I'm...
 <br>
 
 ---
-# My knowledge
+# 🧠 My knowledge
 ### :computer: Main programming languages & development technologies
 [![Generic badge](https://img.shields.io/badge/NodeJS-87%25-brightgreen.svg?style=flat&logo=Node.js)](https://nodejs.org/)
 [![Generic badge](https://img.shields.io/badge/JavaScript-94%25-brightgreen.svg?style=flat&logo=javascript)](https://javascript.info/)
@@ -86,7 +86,7 @@ My Name is Jesús Pérez (JASP).  I'm...
 
 ---
 
-# Social Network & Public Profiles 
+# 💬 Social Network & Public Profiles 
 | 🏆 | 🎖️ | 🥇 | 🥈 | 🥉 | 
 | :----------:         | :----------:         | :----------:         |     :----------:      |          :----------: |
 | <img height="128" width="128" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1400019742/pbpj9oxf1ipwrisnj9ia.png"/><br>[**CodeWars**](https://www.codewars.com/users/jasp402) |<img height="128" width="128" src="https://image.flaticon.com/icons/svg/1051/1051275.svg"/><br>[**GitHub**](https://github.com/jasp402/)|<img height="128" width="128" src="https://image.flaticon.com/icons/svg/1400/1400848.svg" /><br>[**LinkedIn**](https://www.linkedin.com/in/jasp402/)|<img height="128" width="128" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Meetup_Logo.png" /><br>[**Meetup**](https://www.meetup.com/es-ES/members/226119299/)|<img height="128" width="128" src="https://lh3.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg" /><br>[**Facebook**](https://www.facebook.com/jasp402/)
@@ -112,7 +112,7 @@ My Name is Jesús Pérez (JASP).  I'm...
 
 <br>
 
-# Articles
+# 📜 Articles
 
 ### [Mi experiencia con Bots de Automatización](https://medium.com/@jasp402/mi-experiencia-con-bots-de-automatizaci%C3%B3n-e6a4fa24fe9f)
 <img align="left" width="361" height="300" src="https://miro.medium.com/max/500/0*-igvfQIQdKLKAAvu">
@@ -154,7 +154,7 @@ Este es una librería de utilidades. La idea es poder brindarle a cualquier prog
 
 <br><br>
 
-# Projects created
+# 🔥 Projects created
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jasp402&repo=js-packtools)](https://github.com/jasp402/js-packtools)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jasp402&repo=Download-Instagram-Picture)](https://github.com/jasp402/Download-Instagram-Picture)
