@@ -134,6 +134,7 @@ Creo que lo enriquecedor de mi experiencia es que me ha tocado combinar automati
 
 ### [Mi Libreria JS-PackTools](https://medium.com/@jasp402/js-packtools-v1-0-40eff975546c)
 <img align="left" width="361" height="300" src="https://user-images.githubusercontent.com/8978470/88339809-4df7c900-cd00-11ea-9c18-eb6085662ecb.png"> 
+En el 2017 inicie cómo programador fullStack y mi función principal era hacer webScraping y automatización de procesos. Una de las primeras necesidades que surgieron era crear un código limpio, escalable y manteniente.
 Este es una librería de utilidades. La idea es poder brindarle a cualquier programador una serie de funciones, donde por lo general son funciones básicas poco complejas pero tenerlas de esa forma hace la vida mucho más fácil.
 
 [leer más...](https://medium.com/@jasp402/js-packtools-v1-0-40eff975546c)
