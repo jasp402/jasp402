@@ -34,13 +34,13 @@ My Name is Jesús Pérez (JASP).  I'm...
 ---
 
 # 📺 Tutorial videos (YouTube)
-
+![YouTube Video Views](https://img.shields.io/youtube/views/dgwKqGbvI00?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/dgwKqGbvI00?style=social&withDislikes)
 <a href="https://youtu.be/dgwKqGbvI00">
-  <img align="left" width="426" height="240" src="https://user-images.githubusercontent.com/8978470/101021339-cf2c5b80-353d-11eb-881f-a124fd295632.png">
+  <img align="left" width="326" height="140" src="https://user-images.githubusercontent.com/8978470/101021339-cf2c5b80-353d-11eb-881f-a124fd295632.png">
 </a>
 
 <a href="https://youtu.be/llj46S0pG70">
-  <img align="right" width="426" height="240" src="https://user-images.githubusercontent.com/8978470/101024292-e1a89400-3541-11eb-9e9e-36841ea823a2.png">
+  <img align="right" width="326" height="140" src="https://user-images.githubusercontent.com/8978470/101024292-e1a89400-3541-11eb-9e9e-36841ea823a2.png">
 </a>
 
 <br><br><br><br>
